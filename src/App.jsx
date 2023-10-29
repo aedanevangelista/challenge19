@@ -4,7 +4,7 @@ function App() {
   return (
     <>
       <main className="font-Roboto flex justify-center min-h-screen bg-[#36384d]">
-        <div className="flex flex-row w-[48.8%] h-[40rem] bg-white rounded-[2.2rem] my-[13.8rem]">
+        <div className="flex flex-row w-[58rem] h-[40rem] bg-white rounded-[2.2rem] my-[13.8rem]">
           <aside className="w-1/2 flex justify-center">
             <div className="flex flex-col pt-20 pl-[4rem]">
               <h1 className="text-[3.5rem] text-slate-800 font-[700] mb-[0.7rem]">
